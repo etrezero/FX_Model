@@ -1,0 +1,11 @@
+pandas
+numpy
+yfinance
+plotly
+dash
+dash-bootstrap-components
+flask
+scikit-learn
+tensorflow
+scipy
+xgboost
